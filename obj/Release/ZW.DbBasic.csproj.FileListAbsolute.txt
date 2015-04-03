@@ -1,0 +1,6 @@
+D:\work\WebOfficeClient\DbHelper\bin\Release\DbHelper.dll
+D:\work\WebOfficeClient\DbHelper\bin\Release\DbHelper.pdb
+D:\work\WebOfficeClient\DbHelper\obj\Release\DbHelper.dll
+D:\work\WebOfficeClient\DbHelper\obj\Release\DbHelper.pdb
+D:\work\WebOfficeClient\DbHelper\bin\Release\DbHelper.dll.config
+D:\work\WebOfficeClient\DbHelper\bin\Release\MySql.Data.dll

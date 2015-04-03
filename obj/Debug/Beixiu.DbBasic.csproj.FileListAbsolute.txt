@@ -1,0 +1,5 @@
+D:\work\beixiuSerach\DbHelper\bin\Debug\DbHelper.dll
+D:\work\beixiuSerach\DbHelper\bin\Debug\DbHelper.pdb
+D:\work\beixiuSerach\DbHelper\obj\Debug\DbHelper.dll
+D:\work\beixiuSerach\DbHelper\obj\Debug\DbHelper.pdb
+D:\work\beixiuSerach\DbHelper\obj\Debug\Beixiu.DbBasic.csprojResolveAssemblyReference.cache

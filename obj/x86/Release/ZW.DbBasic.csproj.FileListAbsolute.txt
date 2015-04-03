@@ -1,0 +1,7 @@
+D:\work\ImageConvert\DbHelper\bin\x86\Release\DbHelper.dll.config
+D:\work\ImageConvert\DbHelper\bin\x86\Release\DbHelper.dll
+D:\work\ImageConvert\DbHelper\bin\x86\Release\DbHelper.pdb
+D:\work\ImageConvert\DbHelper\bin\x86\Release\MySql.Data.dll
+D:\work\ImageConvert\DbHelper\obj\x86\Release\DbHelper.dll
+D:\work\ImageConvert\DbHelper\obj\x86\Release\DbHelper.pdb
+D:\work\ImageConvert\DbHelper\obj\x86\Release\ZW.DbBasic.csprojResolveAssemblyReference.cache

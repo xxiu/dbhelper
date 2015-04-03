@@ -1,0 +1,12 @@
+D:\work\WebOfficeClient\DbHelper\bin\x86\Debug\DbHelper.dll.config
+D:\work\WebOfficeClient\DbHelper\bin\x86\Debug\DbHelper.dll
+D:\work\WebOfficeClient\DbHelper\bin\x86\Debug\DbHelper.pdb
+D:\work\WebOfficeClient\DbHelper\bin\x86\Debug\MySql.Data.dll
+D:\work\WebOfficeClient\DbHelper\obj\x86\Debug\DbHelper.dll
+D:\work\WebOfficeClient\DbHelper\obj\x86\Debug\DbHelper.pdb
+D:\work\ImageConvert\DbHelper\bin\x86\Debug\DbHelper.dll.config
+D:\work\ImageConvert\DbHelper\bin\x86\Debug\DbHelper.dll
+D:\work\ImageConvert\DbHelper\bin\x86\Debug\DbHelper.pdb
+D:\work\ImageConvert\DbHelper\bin\x86\Debug\MySql.Data.dll
+D:\work\ImageConvert\DbHelper\obj\x86\Debug\DbHelper.dll
+D:\work\ImageConvert\DbHelper\obj\x86\Debug\DbHelper.pdb

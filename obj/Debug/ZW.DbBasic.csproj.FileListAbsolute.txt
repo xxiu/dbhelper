@@ -1,0 +1,14 @@
+D:\work\WebOfficeClient\DbHelper\bin\Debug\DbHelper.dll
+D:\work\WebOfficeClient\DbHelper\bin\Debug\DbHelper.pdb
+D:\work\WebOfficeClient\DbHelper\obj\Debug\DbHelper.dll
+D:\work\WebOfficeClient\DbHelper\obj\Debug\DbHelper.pdb
+D:\work\WebOfficeClient\DbHelper\bin\Debug\DbHelper.dll.config
+D:\work\WebOfficeClient\DbHelper\bin\Debug\MySql.Data.dll
+D:\work\WebOfficeClient\DbHelper\obj\Debug\ZW.DbBasic.csprojResolveAssemblyReference.cache
+D:\work\ImageConvert\DbHelper\bin\Debug\DbHelper.dll.config
+D:\work\ImageConvert\DbHelper\bin\Debug\DbHelper.dll
+D:\work\ImageConvert\DbHelper\bin\Debug\DbHelper.pdb
+D:\work\ImageConvert\DbHelper\bin\Debug\MySql.Data.dll
+D:\work\ImageConvert\DbHelper\obj\Debug\ZW.DbBasic.csprojResolveAssemblyReference.cache
+D:\work\ImageConvert\DbHelper\obj\Debug\DbHelper.dll
+D:\work\ImageConvert\DbHelper\obj\Debug\DbHelper.pdb

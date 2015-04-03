@@ -1,0 +1,4 @@
+D:\work\beixiuSerach\DbHelper\bin\Release\DbHelper.dll
+D:\work\beixiuSerach\DbHelper\bin\Release\DbHelper.pdb
+D:\work\beixiuSerach\DbHelper\obj\Release\DbHelper.dll
+D:\work\beixiuSerach\DbHelper\obj\Release\DbHelper.pdb
